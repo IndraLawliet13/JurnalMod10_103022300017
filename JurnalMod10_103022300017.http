@@ -1,6 +1,6 @@
 @JurnalMod10_103022300017_HostAddress = http://localhost:5046
 
-GET {{JurnalMod10_103022300017_HostAddress}}/weatherforecast/
+GET {{JurnalMod10_103022300017_HostAddress}}/api/Movies/
 Accept: application/json
 
 ###
